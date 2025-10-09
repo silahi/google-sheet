@@ -5,7 +5,6 @@
 **Rôle :** Data Analyst  
 **Jeu de données d'exemple :** `Transactions_Simplifiees` (extraits inspirés de PaySim)
 
----
 
 ## Table des matières
 1. [Bases essentielles](#bases-essentielles)
@@ -15,7 +14,6 @@
 5. [Fonctions avancées — Query et transformation](#fonctions-avancees--query-et-transformation)
 6. [Annexes — Exercices et corrigés rapides](#annexes---exercices-et-corriges-rapides)
 
----
 
 ## Bases essentielles
 
@@ -91,8 +89,6 @@
 =OR(E2="Dakar", E2="Thiès")
 ```
 
----
-
 ## Fonctions arithmétiques et conditionnelles
 
 ### Fonctions de base (SUM, AVERAGE, MIN, MAX, COUNT)
@@ -131,7 +127,6 @@ AVERAGEIF(range, critère, [average_range])
 * Égalités texte : `"Succès"`, `"=Dakar"`
 * Expressions combinées : `AND(...)`, `OR(...)`
 
----
 
 ## Fonctions logiques et expressions conditionnelles
 
@@ -149,8 +144,6 @@ AVERAGEIF(range, critère, [average_range])
 ```text
 =IFERROR(VLOOKUP("CL999", A2:E7, 3, FALSE), "Client inconnu")
 ```
-
----
 
 ## Fonctions de recherche et automatisation
 
@@ -187,8 +180,6 @@ AVERAGEIF(range, critère, [average_range])
 =IMPORTRANGE("url", "Feuille!A1:C100")
 =IMPORTXML("url", "xpath")
 ```
-
----
 
 ## Fonctions avancées — Query et transformation
 
@@ -234,8 +225,6 @@ AVERAGEIF(range, critère, [average_range])
 =SORT(A2:F7, 3, FALSE)
 =VSTACK(A2:C5, D2:F5)
 ```
-
----
 
 ## Annexes — Exercices et corrigés rapides
 
