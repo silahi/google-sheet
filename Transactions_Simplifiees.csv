@@ -1,0 +1,7 @@
+Date,Type,Montant,Statut,Client_ID,Région
+01/10/2025,Paiement,1200,Succès,CL001,Dakar
+01/10/2025,Retrait,800,Échec,CL002,Thiès
+02/10/2025,Paiement,3200,Succès,CL003,Saint-Louis
+02/10/2025,Transfert,450,Succès,CL001,Dakar
+03/10/2025,Retrait,600,Succès,CL004,Kaolack
+03/10/2025,Paiement,5200,Succès,CL002,Thiès
