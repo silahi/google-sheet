@@ -7,16 +7,14 @@ title: Cours Google Sheets
 
 [Accueil](index.md) | [Atelier pratique](atelier.md)
 
-Bienvenue dans le cours de Google Sheets...
-
-
 
 # Atelier pratique Google Sheets — Analyse de transactions
 **Auteur :** Ali Houssene Silahi  
 **Contact :** silahi.alihoussene@gmail.com  
 **Jeu de données :** `Transactions_Atelier.csv` (1000 transactions)
 
----
+
+[📥 Télécharger Transactions_Atelier.csv](https://raw.githubusercontent.com/silahi/google-sheet/main/Transactions_Atelier.csv)
 
 ## Table des matières
 1. [Importation et nettoyage](#importation-et-nettoyage)
