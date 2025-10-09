@@ -3,11 +3,10 @@ layout: default
 title: Guide pratique Google Sheets — Bases et Analyse de données
 ---
 
-# Cours Google Sheets
+# Atelier pratique Google Sheets — Analyse de transactions
 
 [Accueil](index.md) | [Atelier pratique](atelier.md)
 
-# Atelier pratique Google Sheets — Analyse de transactions
 **Auteur :** Ali Houssene Silahi  
 **Contact :** silahi.alihoussene@gmail.com  
 **Jeu de données :** `Transactions_Atelier.csv` (1000 transactions)
