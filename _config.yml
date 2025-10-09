@@ -1,6 +1,6 @@
 title: Google Sheets Guide
 description: Cours et atelier pratique Google Sheets
-baseurl: "https://silahi.github.io/google-sheet/" # si repo sur https://username.github.io/repo-name/
-url: "https://silahi.github.io/google-sheet/"
-theme: architect # thème Jekyll Architect
+baseurl: "/google-sheet" # nom du repo
+url: "https://silahi.github.io"
+theme: jekyll-theme-cayman
 markdown: kramdown
