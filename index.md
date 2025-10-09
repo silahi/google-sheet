@@ -1,15 +1,12 @@
 ---
 layout: default
-title: Cours Google Sheets
+title: Guide pratique Google Sheets — Bases et Analyse de données
 ---
 
 # Cours Google Sheets
 
 [Accueil](index.md) | [Atelier pratique](atelier.md) 
 
----
-
-# Guide pratique Google Sheets — Bases et Analyse de données
 **Auteur :** Ali Houssene Silahi  
 **Contact :** silahi.alihoussene@gmail.com  
 **Rôle :** Data Analyst  
