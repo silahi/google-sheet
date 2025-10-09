@@ -15,8 +15,6 @@ title: Cours Google Sheets
 **Rôle :** Data Analyst  
 **Jeu de données d'exemple :** `Transactions_Simplifiees` (extraits inspirés de PaySim)
 
-[📥 Télécharger Transactions_Simplifiees.csv](https://raw.githubusercontent.com/silahi/google-sheet/main/Transactions_Simplifiees.csv)
-
 
 ## Table des matières
 1. [Bases essentielles](#bases-essentielles)
@@ -45,6 +43,9 @@ title: Cours Google Sheets
 | 02/10/2025 | Transfert | 450     | Succès | CL001     | Dakar     |
 | 03/10/2025 | Retrait   | 600     | Succès | CL004     | Kaolack   |
 | 03/10/2025 | Paiement  | 5200    | Succès | CL002     | Thiès     |
+
+[📥 Télécharger Transactions_Simplifiees.csv](https://raw.githubusercontent.com/silahi/google-sheet/main/Transactions_Simplifiees.csv)
+
 
 ### Cellule, plage, feuille
 > **Définition :**  
