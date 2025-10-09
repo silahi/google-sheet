@@ -4,8 +4,6 @@
 **Contact :** silahi.alihoussene@gmail.com  
 **Jeu de données :** `Transactions_Atelier.csv` (1000 transactions)
 
-[text](https://)
-
 ---
 
 ## Table des matières
