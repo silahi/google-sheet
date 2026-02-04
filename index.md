@@ -12,6 +12,8 @@ title: Guide pratique Google Sheets — Bases et Analyse de données
 **Rôle :** Data Analyst  
 **Jeu de données d'exemple :** `Transactions_Simplifiees` (extraits inspirés de PaySim)
 
+[📥 Donnée de l'atelier du module 3](https://raw.githubusercontent.com/silahi/google-sheet/main/mobile_money_transactions_sample_2.csv)
+
 [📥 Télécharger le guide en PDF](https://raw.githubusercontent.com/silahi/google-sheet/main/Guide_pratique_Google_Sheets___Bases_et_Analyse_de_données.pdf)
 
 
